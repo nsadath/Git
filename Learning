@@ -1,1 +1,28 @@
 
+Git and Github:
+Git is a distributed version control system
+Approach 1 : Git is a local tool which we install to manage the code locally
+1.Multiple files here what happens is lot of files and hard to maintain in real projects it would be very cubersome
+2.Single file well u can have single file but u will lose all the previous files in case if u want to switch to earlier file
+3. Version Management : Hence in version control this is solved u will still have one copy but u can always switch to any other previous version when needed
+
+Git is al about control and tracking of code changes over time
+1. Version control system
+2. Manage code history
+3. Track Changes
+
+Github: is a tool
+1. Largest development platform
+2. cloud hosting & collaboration provider
+3. Git Repository hosting
+
+they both work together but they are however separate.
+
+CMD Line : 
+GUI: User Friendly and Easy to explore
+Command Prompt : text based interaction; Time Saving and more possibilities such as (Start of servers,Download and install tools, run code, execute files, and now 
+here more imp is working with Git)
+
+
+Mac terminalogy :
+Terminal (its a text input environment (hardware))

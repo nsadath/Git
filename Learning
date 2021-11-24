@@ -18,6 +18,9 @@ Github: is a tool
 
 they both work together but they are however separate.
 
+Mac User : Z shell basics
+Windows User : Comand prompt basics
+
 CMD Line : 
 GUI: User Friendly and Easy to explore
 Command Prompt : text based interaction; Time Saving and more possibilities such as (Start of servers,Download and install tools, run code, execute files, and now 
@@ -25,4 +28,47 @@ here more imp is working with Git)
 
 
 Mac terminalogy :
-Terminal (its a text input environment (hardware))
+Terminal (its a text input environment (hardware) its just a hardware and not the software) so we have a software for it so called shell
+Shell is a text input interface(software) which brings your computer to life. in mac we have two shell first and the older one is Bash ad 
+latest one is Z-Shell
+
+Windows: Command Prompt(cmd) ad Initial Windows Shell (in windows we dont have any differentiation as before if we open cmd then we open the shell too)
+Poweshell which was released with Windows 7 however the purpose of it and cmd is completely different with the concept and command being used in it
+GitBAsh : is a bash emulation for windows so if u install git in windows u can also install bash here however the cmd u use here and in mac bash remains same
+
+Mac Terminal Basics : pwd : print working directory
+
+/ means we are in the root directory
+
+ls > stands for list items to show items in our current directory
+
+~ > just indicates that we are in home directory 
+
+diretory levels > root > users> home > nadiyasadath@MMDC02FM07DMD6R ~ % cd ~ // here we are in home directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -46,6 +46,8 @@ ls > stands for list items to show items in our current directory
 
 diretory levels > root > users> home > nadiyasadath@MMDC02FM07DMD6R ~ % cd ~ // here we are in home directory
 
+cd .. go up one level and cd / means goes to root directory.  
+
 
 
 
